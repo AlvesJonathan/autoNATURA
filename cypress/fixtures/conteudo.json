@@ -1,0 +1,12 @@
+{
+    "especial": "Mínimo um caractere especial (ex.: “@“ “#” “!” “%”)",
+    "numero": "Mínimo um número (0 a 9)",
+    "ltMaiuscula": "Mínimo uma letra maiúscula (ABC)",
+    "ltMinuscula": "Mínimo uma letra minúscula (abc)",
+    "minCaracteres": "Mínimo 8 caracteres",
+
+    "recebEmail" : "Desejo receber por e-mail novidades e promoções da Natura",
+    "recebSMS": "Desejo receber por SMS novidades e promoções da Natura",
+    "consultBeleza": "Desejo disponibilizar minhas informações de email e telefone com a consultora de beleza Natura",
+    "maiorIdade": "Confirmo ser maior de 18 anos e estou de acordo com a Política de Privacidade e Termos de uso."
+}

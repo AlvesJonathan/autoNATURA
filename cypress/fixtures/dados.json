@@ -1,0 +1,15 @@
+{
+  "urlCadastro": "https://www.natura.com.br/cadastre-se",
+  "urlLogin": "https://www.natura.com.br/login?redirect=%2F",
+  "urlDados": "https://www.natura.com.br/meus-dados",
+  "nome": "Natura",
+  "sobrenome": "Brasil",
+  "email": "natura01@teste.com",
+  "senha": "Senh@ForT3%6",
+  "cpf": "040.883.540-01",
+  "dtNascimento": "25/08/1998",
+  "telefone": "61997654321",
+
+  "break": 1000,
+  "longBreak": 5000
+}
