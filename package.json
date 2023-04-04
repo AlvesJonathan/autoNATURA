@@ -1,0 +1,17 @@
+{
+  "name": "teste-pratico-automacao",
+  "version": "1.0.0",
+  "description": "Automação do teste prático da Natura Brasil",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cy:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Jonathan Alves",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.9.0",
+    "faker": "^5.5.3"
+  }
+}
